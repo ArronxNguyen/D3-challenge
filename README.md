@@ -1,3 +1,5 @@
+# View working HTML https://arronxnguyen.github.io/D3-challenge/StarterCode/index 
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
