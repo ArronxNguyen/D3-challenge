@@ -1,4 +1,4 @@
-# View working HTML https://arronxnguyen.github.io/D3-challenge/StarterCode/index 
+## View working HTML https://arronxnguyen.github.io/D3-challenge/StarterCode/index 
 
 # D3 Homework - Data Journalism and D3
 
