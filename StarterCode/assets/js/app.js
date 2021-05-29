@@ -32,7 +32,7 @@ var chartGroup = svg.append("g")
 var chosenXAxis = "poverty";
 
 // **AN set initial y axis
-var chosenYAxis = "obesity";
+var chosenYAxis = "healthcare";
 
 // function used for updating x-scale var upon click on axis label
 // establishing values for x-scales
@@ -96,7 +96,7 @@ function renderYCircles(circlesGroup, newYScale, chosenYAxis) {
     circlesGroup.transition()
       .duration(1000)
       .attr("cy", d => newYScale(d[chosenYAxis]))
-      .attr("dy", d => newYScale(d[chosenYAxis])+5)
+      .attr("dy", d => newYScale(d[chosenYAxis]))
       return circlesGroup;
 }
 
